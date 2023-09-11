@@ -1,0 +1,24 @@
+[submodule "clique"]
+	path = clique
+	url = https://github.com/Eason51/clique.git
+[submodule "constraint"]
+	path = constraint
+	url = https://github.com/Eason51/constraint.git
+[submodule "datasets"]
+	path = datasets
+	url = https://github.com/Eason51/datasets.git
+[submodule "McSplit"]
+	path = McSplit
+	url = https://github.com/Eason51/McSplit.git
+[submodule "McSplit-LL"]
+	path = McSplit-LL
+	url = https://github.com/Eason51/McSplit-LL.git
+[submodule "McSplit-RL"]
+	path = McSplit-RL
+	url = https://github.com/Eason51/McSplit-RL.git
+[submodule "results"]
+	path = results
+	url = https://github.com/Eason51/results.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/Eason51/scripts.git
